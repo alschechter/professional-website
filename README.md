@@ -8,4 +8,4 @@ Hello! I'm currently a 3rd year PhD student at the University of Colorado Boulde
 ### Contact
 
 email: aimee.schechter@colorado.edu
-twitter: [@astronaimee_] (https://twitter.com/astronaimee_)
+twitter: [@astronaimee_] (https://twitter.com/astronaimee_ )
