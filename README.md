@@ -23,4 +23,4 @@ I spent two years volunteering at Fiske Platetarium as part of the Science Under
 ### Contact
 
 email: aimee.schechter@colorado.edu
-twitter: [@astronaimee_] (https://twitter.com/astronaimee/_ )
+twitter: [@astronaimee_] (https://twitter.com/astronaimee_/ )
