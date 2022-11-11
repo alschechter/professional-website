@@ -4,7 +4,7 @@
 
 
 ```markdown
-Hello! I'm currently a 3rd year PhD student at the University of Colorado Boulder. I work on identifying galaxy mergers with Convolutional Neural Networks, and discovering what effects these mergers have on active galactic nuclei and star formation. I currently use the IllustrisTNG simulation and the _HST_ CANDELS survey to do this work.
+Hello! I'm currently a 4th year PhD student at the University of Colorado Boulder. I work on identifying galaxy mergers with Convolutional Neural Networks, and discovering what effects these mergers have on active galactic nuclei and star formation. I currently use the IllustrisTNG simulation and the _HST_ CANDELS survey to do this work.
 ```
 
 ![image](https://user-images.githubusercontent.com/77514587/164337312-6560ee7d-2480-4f73-b55c-3c1040d95e5c.png)
